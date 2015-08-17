@@ -2,6 +2,23 @@
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
 
 
+#subtitulo{
+    color:  white;
+}
+
+.modal {
+    display: block !important;
+}
+
+.volver{
+    width: 100px;
+    height: 30px;
+}
+
+.img-carousel {
+    height: 313px !important;
+}
+
 body {
     background: url(../images/background.jpg) no-repeat;
     background-attachment: fixed;
